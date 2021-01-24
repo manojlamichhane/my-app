@@ -1,0 +1,10 @@
+.service-container{
+    display: flex;;
+    width: 80%;
+    height:100px;
+    padding:20px 0px;
+    margin:auto
+}
+.Header {
+    text-align: center;
+}

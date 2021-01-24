@@ -1,0 +1,12 @@
+.obtn {
+    width:125px;
+    height:40px;
+    background:#f84b4b;
+    color:#fff;
+    border:2px solid white;
+    border-radius: 5px; 
+  }
+  .obtn:hover {
+      background:white;
+      color:black
+  }
